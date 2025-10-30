@@ -1,5 +1,6 @@
-# Text-Summarizer-Project
-In this project, we implemented the **PEGASUS** model to extract semantic features for generating **high-quality abstractive summaries**. **PEGASUS** is specifically designed for text summarization through its innovative pre-training technique known as _"gap-sentences generation"_.
+# Abstractive Text Summarization using Natural Language Processing
+
+In this project, I implemented the **PEGASUS** model to extract semantic features for generating **high-quality abstractive summaries**. **PEGASUS** is specifically designed for text summarization through its innovative pre-training technique known as _"gap-sentences generation"_.
 
 ## Implementation Details
  In this approach, the most informative sentences of a document are masked, and the model is trained to predict these sentences based on the surrounding context. This pre-training strategy is directly aligned with the requirements of summarization tasks, enabling **PEGASUS** to generate **concise** and **contextually relevant** summaries.
